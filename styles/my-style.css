@@ -1,0 +1,20 @@
+.js-font-primary {
+    font-family: 'EB Garamond', serif;
+    
+}
+.js-font-ordinary{
+    font-family: 'Poppins', sans-serif;
+}
+.js-bg-main{
+    background-color: #B68C5A;
+}
+.js-color-main{
+    color: #B68C5A;
+}
+.js-banner-img{
+    background-image: url(../images/banner.png) ,url(../images/Rectangle\ 5.png);
+    background-position: left, right;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
